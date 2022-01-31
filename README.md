@@ -10,7 +10,7 @@ Top-k selection simply means to pick the k items with the largest scores. If the
 
 ## Creating Plots
 
-How to generate all plots in one directoy:
+How to generate all plots in one directory:
 ```
 python3.9 eval.py -v 1
 ```
