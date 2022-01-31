@@ -11,14 +11,14 @@ Top-k selection simply means to pick the k items with the largest scores. If the
 ## Creating Plots
 
 How to generate all plots in one directoy:
-``
+```
 python3.9 eval.py -v 1
-''
+```
 How to generate the subplots instead in a subdirectory:
-``
+```
 mkdir sub
 python3.9 eval.py -u sub/ -v 1
-''
+```
 To obtain no console messages remove "-v 1".
 
 ## Files
@@ -51,6 +51,6 @@ Note that a full Latex distribution is needed to obtain PDFs for the latex plots
 ## Misc
 
 A list of other possible commands can be obtained with:
-``
+```
 python3.9 eval.py -h
-''
+```
