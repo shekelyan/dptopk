@@ -51,5 +51,6 @@ Note that a full Latex distribution is needed to obtain PDFs for the latex plots
 ## Misc
 
 A list of other possible commands can be obtained with:
-
+``
 python3.9 eval.py -h
+''
